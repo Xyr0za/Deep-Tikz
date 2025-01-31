@@ -12,5 +12,9 @@ An obsidian.md plugin that can automatically generate tikz diagrams and insert t
 
 # Planned features
 
-- LaTeX support for quick maths responses
-- Speed optimisations
+-[x] LaTeX support for quick maths responses
+-[x] Speed optimisations
+-[x] Explanation implementations
+-[x] Reworder implementations
+-[] Linted code
+-[] Improve readibility
