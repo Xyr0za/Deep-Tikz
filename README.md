@@ -20,7 +20,7 @@ An obsidian.md plugin that can automatically generate tikz diagrams and insert t
 
 - [x] Reworder implementations
 
-- [] Linted code
+- [ ] Linted code
 
-- [] Improve readibility
+- [ ] Improve readibility
 
